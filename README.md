@@ -4,7 +4,7 @@ Visual analysis of race pace, tyre strategy and position changes for the first s
 
 Final project for Exploratory Data Analysis and Data Visualisation (M.Sc. Data Science, Dokuz Eylül University, spring 2024). Lap data comes from the FastF1 Python package and the plots are made in R with ggplot2. Section headings and comments in the code are in Turkish.
 
-My undergraduate thesis was a Formula 1 race simulator: [f1-race-simulator](https://github.com/ttasalti/f1-race-simulator).
+My undergraduate thesis was a Formula 1 lap time simulator: [f1-lap-time-simulator](https://github.com/ttasalti/f1-lap-time-simulator).
 
 All figures below are for the 2024 Miami Grand Prix.
 
